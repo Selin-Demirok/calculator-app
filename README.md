@@ -1,4 +1,5 @@
 <h1> Calculator App </h1>
+<h2> Here used React, Javascript, Css </h2>
 
 <h2> Screen shot </h2>
 

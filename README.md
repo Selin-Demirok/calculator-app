@@ -1,3 +1,14 @@
+<h1> Calculator App </h1>
+
+<h2> Screen shot </h2>
+
+![](./calculator.gif)
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
